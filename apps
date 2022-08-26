@@ -38,48 +38,7 @@
 
 
 
-
-
- {
-       
-        "aage": "21-65",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
-        "rating": 5,
-        "sum_one": "до 80 000 руб.",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=ea"
-    },
-
-
-    
-
 {
-       
-        "aage": "21-65",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
-        "rating": 5,
-        "sum_one": "до 60 000 руб.",
-        "days_info": "",
-        "percent": "0%",
-        "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=ea"
-    },
-
-{
-        
-        "aage": "21-70",
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ssmm.png",
-        "rating": 5,
-        "sum_one": "до 30 000 руб.",
-       "days_info": "",
-        "percent": "0%",
-        "url": "https://trkleads.ru/click/7f62d7c4f6ebda33e5152f4fc28ed151?aff_sub1=ea"
-    },
-
-
-
-       
-    {
         
         "aage": "21-65",
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivgo.png",
@@ -103,6 +62,41 @@
         "percent": "0%",
         "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=ea"
     },
+
+
+{
+        
+        "aage": "21-70",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ssmm.png",
+        "rating": 5,
+        "sum_one": "до 30 000 руб.",
+       "days_info": "",
+        "percent": "0%",
+        "url": "https://trkleads.ru/click/7f62d7c4f6ebda33e5152f4fc28ed151?aff_sub1=ea"
+    },
+
+
+
+    
+    
+
+{
+       
+        "aage": "21-65",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",
+        "rating": 5,
+        "sum_one": "до 60 000 руб.",
+        "days_info": "",
+        "percent": "0%",
+        "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=ea"
+    },
+
+
+
+
+
+       
+    
     
     
     
@@ -172,16 +166,7 @@
  
    
 
-{
-          "aage": "21-70",
-      
-        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ezaemg.png",
-        "rating": 5,
-        "sum_one": "до 15 000 руб.",
-       "days_info": "",
-        "percent": "0%",
-        "url": "https://trkleads.ru/click/bf5459cb9b36a85b2a51b3c79ad66fb8?aff_sub1=ea"
-    },
+
 
 
     
@@ -260,6 +245,44 @@
         "percent": "0%",
         "url": "https://trkleads.ru/click/bacb8c21358a3427da3ce00e150aa7d5?aff_sub1=ea"
     } ,
+    
+    
+     {  "aage": "21-70",
+              
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/smartcas.png",
+        "rating": 5,
+        "sum_one": "до 15 000 руб.",
+       "days_info": "",
+        "percent": "1%",
+        "url": "https://trkleads.ru/click/9eeaeaba00bdbd58bc6f024aee7515a7?aff_sub1=ea"
+    } ,
+    
+    
+      {  "aage": "21-70",
+              
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",
+        "rating": 5,
+        "sum_one": "до 30 000 руб.",
+       "days_info": "",
+        "percent": "1%",
+        "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=ea"
+    } ,
+    
+     {  "aage": "21-70",
+              
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/diska.png",
+        "rating": 5,
+        "sum_one": "до 30 000 руб.",
+       "days_info": "",
+        "percent": "1%",
+        "url": "https://trkleads.ru/click/7819f1d402f445e6045772867bab2ec4?aff_sub1=ea"
+    } ,
+    
+    
+    
+    
+    
+    
     
      {  "aage": "21-70",
               
