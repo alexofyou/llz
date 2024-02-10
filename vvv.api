@@ -1,0 +1,46 @@
+
+
+
+
+
+
+[
+
+ {
+       
+        "aage": "21-65",
+        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+        "rating": 5,
+        "sum_one": "до 30 000",
+        "percent": "0%",
+ "url": "https://google.com"
+    } ,
+    
+
+
+    {
+      
+        "aage": "18-65",
+        "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+        "rating": 5,
+        "sum_one": "до 15 000",
+     "percent": "0%",
+        "url": "https://www.homecredit.ru"
+    },
+
+
+{
+        
+        "aage": "21-65",
+        "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+        "rating": 4,
+        "sum_one": "до 80 000",
+        "percent": "0%",
+        "url": "https://google.com"
+    }
+     
+       
+    
+    
+    
+]
