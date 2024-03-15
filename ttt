@@ -1,0 +1,69 @@
+
+
+[
+    
+    
+ 
+ {
+     "name": "Восточный Экспресс",
+     "rating": 5.0,
+  "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+     "percent": "2%",
+	"sum_one": "до 70 000 руб",
+     "url": "https://google.com"
+        
+  
+    }
+    
+    
+,
+
+
+ {
+  "name": "Экспресс",
+     "rating": 4.5,
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+  
+     "percent": "0%",
+	"sum_one": "до 50 000 руб",
+     "url": "https://www.homecredit.ru"
+  
+    }
+    
+ ,
+ {
+  "name": "Восточный Экспресс",
+     "rating": 4.0,
+     "image_url": "https://static3.banki.ru/ugc/bf/34/70/e6/195706.gif",
+     "percent": "1%",
+	"sum_one": "до 50 000 руб",
+     "url": "https://google.com"
+        
+  
+    }
+    
+    
+,
+
+
+ {
+     "name": "Газпромбанк",
+     "rating": 5.0,
+  
+     "image_url": "https://api.bankiros.ru/bank_logo/logos/homecreditbank.png",
+     "percent": "0%",
+	"sum_one": "до 50 000 руб",
+     "url": "https://www.homecredit.ru"
+  
+    }
+    
+
+
+
+
+ 
+   
+   
+  
+  
+]
