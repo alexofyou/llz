@@ -3,6 +3,7 @@
    "time":"до 15 минут",
 	"sum_one": "от 6 000 до 15 000 руб",
 "age": "От 18 лет",
+ "percent": "1%",
  "url": "https://www.banki.ru/banks/bank/tcs/"
 }
     
@@ -15,6 +16,7 @@
  "time":"до 25 минут",
 "sum_one": "от 6 000 до 15 000 руб",
 "age": "От 18 лет",
+ "percent": "1%",
  "url": "https://www.banki.ru/banks/bank/tcs/"
 }
     
