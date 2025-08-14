@@ -1,4 +1,17 @@
-[{
+[
+
+ {
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
+ "time":"до 25 минут",
+"sum_one": "от 100 до 30 000 руб",
+"age": "От 18 лет",
+"percent": "0%",
+ "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=mkrz"
+}
+
+,
+
+{
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
    "time":"до 15 минут",
 	"sum_one": "от 4 000 до 100 000 руб",
@@ -10,6 +23,20 @@
  ,
 
 
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
+   "time":"до 15 минут",
+	"sum_one": "от 4 000 до 80 000 руб",
+"age": "От 18 лет",
+ "percent": "0%",
+ "url": "https://trkleads.ru/click/41dcc41172273fd807876613096d8579?aff_sub1=mkrz"
+}
+    
+ ,
+
+
+
+
  {
 "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/joymoneyg.png",   
  "time":"до 15 минут",
@@ -18,10 +45,11 @@
  "percent": "0%",
  "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=mkrz"
 }
-    
+    ,
 
 
-,
+
+
 
 
  {
@@ -36,16 +64,10 @@
 ,
 
 
- {
-"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",   
- "time":"до 25 минут",
-"sum_one": "от 100 до 30 000 руб",
-"age": "От 18 лет",
-"percent": "0%",
- "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=mkrz"
-}
 
-,
+
+
+
 
 
  {
@@ -81,6 +103,28 @@
  "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=mkrz"
 }
 
+,
+
+{
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/boovd.png",   
+ "time":"до 25 минут",
+"sum_one": "от 1 000 до 30 000 руб",
+"age": "От 18 лет",
+"percent": "0%",
+ "url": "https://trkleads.ru/click/a9ab2d84587cb6b14e3e6ea3d5357865?aff_sub1=mkrz"
+}
+
+,
+
+
+ {
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",   
+ "time":"до 25 минут",
+"sum_one": "от 3 000 до 30 000 руб",
+"age": "От 18 лет",
+"percent": "1%",
+ "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=mkrz"
+}
     
 
 ]
