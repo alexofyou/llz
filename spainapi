@@ -1,47 +1,30 @@
 [
   {
     "name": "BBVA",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bbva.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BBVA_2019.svg/2560px-BBVA_2019.svg.png",
     "limit": "20000€",
     "rate": "4.71%",
     "term": "6 a 36 meses",
     "details_text": "Pormenores",
-    "url": "#"
+    "url": "https://www.google.com/"
   },
   {
     "name": "Banco Popular",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/banco_popular.png",
+    "image_url": "https://w7.pngwing.com/pngs/244/107/png-transparent-banco-popular-hd-logo.png",
     "limit": "15000€",
     "rate": "1.1%",
     "term": "6 a 36 meses",
     "details_text": "Pormenores",
-    "url": "#"
+    "url": "https://www.google.com/"
   },
   {
     "name": "Santander",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/santander.png",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Banco_Santander_Logotipo.svg/1280px-Banco_Santander_Logotipo.svg.png",
     "limit": "10000€",
     "rate": "1.4%",
     "term": "12 a 24 meses",
     "details_text": "Pormenores",
-    "url": "#"
+    "url": "https://www.google.com/"
   },
-  {
-    "name": "Sabadell",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sabadell.png",
-    "limit": "5000€",
-    "rate": "2.3%",
-    "term": "4 a 24 meses",
-    "details_text": "Pormenores",
-    "url": "#"
-  },
-  {
-    "name": "Bankia",
-    "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bankia.png",
-    "limit": "7500€",
-    "rate": "1.8%",
-    "term": "12 a 36 meses",
-    "details_text": "Pormenores",
-    "url": "#"
-  }
+ 
 ]
