@@ -1,32 +1,22 @@
 [
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/mickrocredditkz.png",
-    "company_name": "Mikrokredit",
-    "company_full": "ООО МФК \"Микрокредит\"",
-    "loan_amount": "до 30 000 ₽",
+    "logo": "https://irecommend.ru/sites/default/files/product-images/1/vost_thumb_main.gif",
+    "company_name": "Банк Восточный",
+    "company_full": "Банк Восточный",
+    "loan_amount": "до 15 000 ₽",
     "percent": "от 0% в день",
     "time": "до 5 минут",
     "badge": "НАДЁЖНАЯ КОМПАНИЯ",
-    "url": "https://appstopcredits.online/dm-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d0%ba%d1%80%d0%b5%d0%b4%d0%b8%d1%82-2/"
+    "url": "https://www.homecredit.ru"
   },
   {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/kanatkz.png",
-    "company_name": "QANAT",
-    "company_full": "ООО МКК «Qanat»",
+    "logo": "https://ubanks.com.ua/img/bank-logo/pumb-logo-2x.png",
+    "company_name": "Пумб",
+    "company_full": "Пумб",
     "loan_amount": "до 100 000 ₽",
     "percent": "от 0% в день",
     "time": "до 3 минут",
     "badge": "НАРОДНЫЙ ВЫБОР",
-    "url": "https://appstopcredits.online/qanat-kz-2/"
-  },
-  {
-    "logo": "https://raw.githubusercontent.com/vrsstudio/img/main/tengedakz.png",
-    "company_name": "Tenge",
-    "company_full": "ООО МФК «Tenge»",
-    "loan_amount": "до 100 000 ₽",
-    "percent": "от 0% в день",
-    "time": "до 5 минут",
-    "badge": "ЛУЧШЕЕ ПРЕДЛОЖЕНИЕ",
-    "url": "https://appstopcredits.online/tengeda-kz-2/"
+    "url": "https://www.digital.pumb.ua/microcredit/apply-for-loan"
   }
 ]
