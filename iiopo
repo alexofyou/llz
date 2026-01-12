@@ -27,17 +27,6 @@
 ,
 
 {
-	"odobrenie": "Высокое",
-  "obran":"5 (320 голосов)",
-"rating": 5,
-"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",   
-
-"sum_one": "от 1 000 до 30 000 руб",
-
- "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=tttopappm"
-},
-
-{
 
  	"odobrenie": "Высокое",
   "obran":"5 (680 голосов)",
@@ -48,22 +37,7 @@
 
  "url": "https://trkleads.ru/click/3298ea360c76e3a192411298c7a26576?aff_sub1=tttopappm"
 }
-
-
-
-
 ,
-
- {
- 	"odobrenie": "Высокое",
-  "obran":"5 (710 голосов)",
-"rating": 4,
-
-             "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
-           "sum_one": "от 100 до 15 000 руб",
-         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=tttopappm"
-    },
-
 
 {
 	"odobrenie": "Высокое",
@@ -75,7 +49,43 @@
 
  "url": "https://trkleads.ru/click/d2beed532f0210c4a2a434f721252d00?aff_sub1=tttopappm"
 },
-    
+
+{
+ 	"odobrenie": "Высокое",
+  "obran":"5 (710 голосов)",
+"rating": 4,
+
+             "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
+           "sum_one": "от 100 до 15 000 руб",
+         "url": "https://trkleads.ru/click/e504440d8faa28751c3a2deade2b77e7?aff_sub1=tttopappm"
+    },
+
+
+
+{
+	"odobrenie": "Высокое",
+  "obran":"5 (320 голосов)",
+"rating": 5,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/maxc.png",   
+
+"sum_one": "от 1 000 до 30 000 руб",
+
+ "url": "https://trkleads.ru/click/91641bc444af5ba553a7d25590dac27e?aff_sub1=tttopappm"
+},
+
+
+
+{
+	"odobrenie": "Высокое",
+  "obran":"5 (474 голосов)",
+"rating": 5,
+"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",   
+
+"sum_one": "от 2 000 до 30 000 руб",
+
+ "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=tttopappm&erid=2W5zFHMCfMi"
+},
+
 
 
  {
@@ -178,16 +188,7 @@
  "url": "https://pxl.leads.su/click/e9fa0f069aa9d79c8b557a038d0a28e2?aff_sub1=tttopappm&erid=2W5zFGRgkqW"
 }
 
-,{
-	"odobrenie": "Высокое",
-  "obran":"5 (474 голосов)",
-"rating": 5,
-"image_url": "https://raw.githubusercontent.com/alexofyou/images/main/f55.jpeg",   
 
-"sum_one": "от 2 000 до 30 000 руб",
-
- "url": "https://pxl.leads.su/click/d51ddd0fe3c4cb23b1956e524382af43?aff_sub1=tttopappm&erid=2W5zFHMCfMi"
-}
 
 
     ]
